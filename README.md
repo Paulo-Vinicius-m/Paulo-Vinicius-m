@@ -19,5 +19,3 @@ I'm a Back-end Developer and a passionate technology enthusiast, currently pursu
 
 📫 **Get In Touch**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pauloviniciusmc5@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/paulo-vin%C3%ADcius-1898762aa/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/paulo_vinicius._/) [![Lichess](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat)](https://lichess.org/@/pv_lindo)
-
-📊 **GitHub Stats**
