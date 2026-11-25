@@ -8,7 +8,7 @@ I'm a Back-end Developer and a passionate technology enthusiast, currently pursu
 
 📜 **Past Experience**
 
-- **July 2025 - March 2025:** Worked at [Strategi Consultoria](https://strategibrasil.com.br/)'s AI Team, developing solutions with Generative AI.
+- **July 2025 - March 2026:** Worked at [Strategi Consultoria](https://strategibrasil.com.br/)'s AI Team, developing solutions with Generative AI.
 
 - **May 2024 - August 2025:** Voluntary work as a Back-end Developer at [EJECT](https://www.ejectufrn.com.br/), where I developed CRM solutions and participated in the full software development lifecycle.
 
